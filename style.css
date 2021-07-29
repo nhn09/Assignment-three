@@ -1,0 +1,23 @@
+.nav-background {
+  background-color: #264653;
+}
+
+.grey {
+  filter: grayscale(100%);
+}
+.btn-color {
+  background-color: #e76f51 !important;
+}
+
+.stars {
+  color: #e77c40;
+}
+
+.orange {
+  color: #e76f51;
+}
+
+footer {
+  height: 200px;
+  background: #0b0d17;
+}
